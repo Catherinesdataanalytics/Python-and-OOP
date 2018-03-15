@@ -1,0 +1,20 @@
+{
+  "students":[
+    {
+      name:'josre',
+      'id': '23453t65475'
+    }
+    ,
+    {
+      name:'cat',
+      'id': '23453t65475'
+    }
+    ,
+    {
+      name: 'hiss',
+      'id': '23453t65475'
+    }
+
+  ]
+}
+#json send data in a good way
